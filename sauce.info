@@ -1,0 +1,55 @@
+name = Sauce
+description = Base profile for building online communities and social networks.
+core = 7.x
+
+; Core
+; ------------
+dependencies[] = block
+dependencies[] = ckeditor
+dependencies[] = contextual
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = openid
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = field_ui
+dependencies[] = file
+
+; Contrib
+; ------------
+dependencies[] = admin_menu
+dependencies[] = ctools
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = features
+dependencies[] = elements
+dependencies[] = fences
+dependencies[] = module_filter
+dependencies[] = filefield_paths
+dependencies[] = redirect
+dependencies[] = imce
+dependencies[] = inline_messages
+dependencies[] = libraries
+dependencies[] = menu_block
+dependencies[] = metatag
+dependencies[] = metatag_views
+dependencies[] = openid_selector
+dependencies[] = pathauto
+dependencies[] = robotstxt
+dependencies[] = strongarm
+dependencies[] = token
+dependencies[] = views
+dependencies[] = views_ui
+dependencies[] = webform
+dependencies[] = webform_validation
+dependencies[] = xmlsitemap
+dependencies[] = xmlsitemap_menu
+dependencies[] = xmlsitemap_node
+dependencies[] = xmlsitemap_engines
+dependencies[] = googleanalytics
