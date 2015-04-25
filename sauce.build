@@ -1,0 +1,9 @@
+core = 7.x
+api = 2
+
+projects[drupal][version] = "7.36"
+
+; Profile
+projects[sauce][type] = profile
+projects[sauce][download][type] = git
+projects[sauce][download][url] = https://github.com/RealLukeMartin/sauce.git
