@@ -23,10 +23,39 @@ dependencies[] = file
 
 ; Contrib
 ; ------------
+; contrib
+dependencies[] = admin_menu
+dependencies[] = admin_views
+dependencies[] = adminimal_admin_menu
+dependencies[] = ckeditor
+dependencies[] = coffee
+dependencies[] = content_menu
+dependencies[] = ctools
+dependencies[] = diff
+dependencies[] = drupalchat
+dependencies[] = email_registration
 dependencies[] = emfield
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = entityreference
+dependencies[] = features
+dependencies[] = features_override
 dependencies[] = flag
+dependencies[] = filefield_paths
 dependencies[] = heartbeat
 dependencies[] = invite
+dependencies[] = jquery_update
+dependencies[] = module_filter
 dependencies[] = og
-dependencies[] = userpoints
+dependencies[] = pathauto
+dependencies[] = strongarm
+dependencies[] = token
 dependencies[] = user_relationships
+dependencies[] = userpoints
+dependencies[] = uuid
+dependencies[] = uuid_features
+dependencies[] = uuid_panel_node
+dependencies[] = views_bulk_operations
+dependencies[] = views_ui
+dependencies[] = webform
+dependencies[] = webform_uuid
