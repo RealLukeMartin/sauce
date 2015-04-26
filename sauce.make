@@ -61,19 +61,17 @@ projects[globalredirect]                                        = 1.5
 projects[geocoder]                                              = 1.2
 projects[geofield]                                              = 2.1
 projects[google_analytics]                                      = 1.4
-projects[heartbeat]
+projects[heartbeat]												= 1.1
 projects[hidden_captcha]                                        = 1.0
 projects[html5_tools]                                           = 1.2
 projects[imagecache_actions]                                    = 1.3
 projects[imagemarker]                                           = 1.0
 projects[image_url_formatter]                                   = 1.4
 projects[imce]                                                  = 1.9
-projects[invite]
+projects[invite]												= 4.0-beta2
 projects[inline_messages]                                       = 1.0
 projects[jquery_update]                                         = 2.4
 projects[job_scheduler]                                         = 2.0-alpha3
-; label_help needs to be checked for non dev before comp:
-projects[label_help]                                            = 1.x-dev
 projects[leaflet]                                               = 1.1
 projects[leaflet_more_maps]                                     = 1.9
 projects[leaflet_widget]                                        = 1.0-beta2
@@ -96,7 +94,7 @@ projects[multiupload_imagefield_widget]                         = 1.2
 projects[nice_menus]                                            = 2.5
 projects[nodeblock]                                             = 1.3
 projects[node_clone]                                            = 1.0-rc1
-projects[og]
+projects[og]													= 2.7
 projects[openid_selector]                                       = 1.x-dev
 
 projects[panels]                                                = 3.3
@@ -124,6 +122,8 @@ projects[token]                                                 = 1.5
 projects[token_filter]                                          = 1.1
 projects[token_tweaks]                                          = 1.x-dev
 projects[transliteration]                                       = 3.1
+projects[user_relationships]									= 1.0-alpha5
+projects[userpoints]											= 1.0
 projects[uuid]                                                  = 1.0-alpha5
 projects[uuid_features]                                         = 1.0-alpha3
 projects[variable]                                              = 2.2
