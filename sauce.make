@@ -30,7 +30,7 @@ projects[ds]                                                    = 2.6
 projects[disqus]                                                = 1.9
 projects[easy_social]                                           = 2.10
 projects[elements]                                              = 1.4
-projects[emfield]
+projects[emfield]												= 1.0-alpha2
 projects[entity]                                                = 1.5
 projects[entityreference]                                       = 1.1
 projects[entity_view_mode]                                      = 1.0-rc1
