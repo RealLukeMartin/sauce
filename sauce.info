@@ -54,7 +54,6 @@ dependencies[] = user_relationships
 dependencies[] = userpoints
 dependencies[] = uuid
 dependencies[] = uuid_features
-dependencies[] = uuid_panel_node
 dependencies[] = views_bulk_operations
 dependencies[] = views_ui
 dependencies[] = webform

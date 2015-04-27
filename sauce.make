@@ -87,6 +87,9 @@ projects[email][version] = "1.3"
 projects[email_registration][subdir] = "contrib"
 projects[email_registration][version] = "1.2"
 
+projects[emfield][subdir] = "contrib"
+projects[emfield][version] = "1.0-alpha2"
+
 projects[editablefields][subdir] = "contrib"
 projects[editablefields][version] = "1.0-alpha2"
 
